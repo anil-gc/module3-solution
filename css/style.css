@@ -1,0 +1,30 @@
+body{
+    font-family: 'Baloo Paaji 2', cursive;
+}
+.main > div{
+    width: 90%;
+    margin: auto;
+    background-color: darkgray;
+}
+
+.main h1{
+    text-align: center;
+    margin: 50px;
+    text-transform: capitalize;
+}
+
+.main p{
+    font-weight: 600;
+    padding: 15px;
+}
+
+.main h3 
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.center
+{
+    text-align: center;
+}
