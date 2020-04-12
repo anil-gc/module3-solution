@@ -2,7 +2,7 @@ body{
     font-family: 'Baloo Paaji 2', cursive;
 }
 .main > div{
-    width: 90%;
+    width: 98%;
     margin: auto;
     background-color: darkgray;
 }
@@ -27,4 +27,11 @@ body{
 .center
 {
     text-align: center;
+}
+
+@media(max-width:670px)
+{
+    .main > div{
+        width: 90%;
+    }
 }
